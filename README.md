@@ -4,7 +4,7 @@
 
 I'm working as a Junior Software Quality Assurance Engineer. Experience in Manual Testing, Test Automation ,Bug reporting and familiar with the SDLC and agile methodologies. I'm passionate and also eager to learn and excited to use my knowledge to create amazing things.
 
-Skills: Manual Testing/ Test case writing /Bug Reporting /Test Automation /JavaScript / 
+Skills: Manual Testing/ Test case writing /Bug Reporting /Test Automation /JavaScript/Playwright/Cypress
 
 - 🔭 I’m currently working on QA Harbor Limited 
 - 🌱 I’m currently learning Test Automation 
